@@ -31,15 +31,16 @@ All citations are to real instruments — the **Work Health and Safety Act 2011 
 ss 47–49 consultation, s 84 cease unsafe work, Part 6 discrimination) and the
 **Work Health and Safety Regulation 2017 (NSW)**, with **SafeWork NSW** as the regulator.
 
-The 5×5 risk matrix is an *illustrative* qualitative tool, not a statutory one — this is stated on
-the page.
+Psychosocial duties cite the WHS Regulation 2017 (NSW) Part 3.2 Div 11 (reg 55A–55D, in force
+1 Oct 2022) and electrical safety cites Ch 4 Part 4.7. The 5×5 risk matrix is an *illustrative*
+qualitative tool, not a statutory one — this is stated on the page.
 
-## Placeholders — replace before real use
+## Illustrative data
 
-This is a demo for a fictional company. Anything shown in `[square brackets]` or flagged `[VERIFY]`
-(contact names, phone extensions, assembly points, and a couple of exact regulation sub-numbers we
-did not want to state without checking the source) is a placeholder and must be confirmed against the
-official source before any real deployment.
+TechNova Solutions is a fictional company created for this pitch. Staff names, phone extensions,
+the office address and ABN are **illustrative examples** to make the demo feel complete — swap in
+real details before any actual deployment. Emergency numbers (000, 106, 13 11 26, 13 11 14,
+1800 022 222, 13 10 50) are the real Australian services.
 
 ## Accessibility & design
 
